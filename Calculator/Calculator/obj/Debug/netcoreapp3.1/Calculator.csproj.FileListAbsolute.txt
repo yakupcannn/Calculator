@@ -1,0 +1,16 @@
+C:\project\csharp\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\project\csharp\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\project\csharp\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\project\csharp\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\project\csharp\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\project\csharp\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\project\csharp\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\project\csharp\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.Form1.resources
+C:\project\csharp\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\project\csharp\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\project\csharp\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\project\csharp\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\project\csharp\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\project\csharp\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\project\csharp\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\project\csharp\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.UserLogin.resources
